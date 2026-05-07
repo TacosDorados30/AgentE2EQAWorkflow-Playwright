@@ -1,0 +1,9 @@
+{
+  "name": "agenticaiqae2e_workflow_op",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.1"
+  }
+}
